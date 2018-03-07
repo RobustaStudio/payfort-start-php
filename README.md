@@ -14,7 +14,7 @@ Using Start with your PHP project is simple.
 If you're using [Composer](https://getcomposer.org/doc/00-intro.md#installation-nix) (and really, who isn't these days amirite?), you can simply run:
 
 ```bash
-php composer.phar require payfort/start
+php composer.phar require RobustaStudio/payfort-start-php
 ```
 
 .. or add a line to your `composer.json` file:
@@ -22,7 +22,7 @@ php composer.phar require payfort/start
 ```json
 {
     "require": {
-        "payfort/start": "*"
+        "RobustaStudio/payfort-start-php": "*"
     }
 }
 ```
@@ -31,7 +31,7 @@ Now, running `php composer.phar install` will pull the library directly to your 
 
 ### Install Manually
 
-Get source code of the latest release from github repository: https://github.com/payfort/start-php/releases/latest and copy it to your project.
+Get source code of the latest release from github repository: https://github.com/RobustaStudio/payfort-start-php/releases/latest and copy it to your project.
 
 Inside your php file add this:
 
