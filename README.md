@@ -14,7 +14,7 @@ Using Start with your PHP project is simple.
 If you're using [Composer](https://getcomposer.org/doc/00-intro.md#installation-nix) (and really, who isn't these days amirite?), you can simply run:
 
 ```bash
-php composer.phar require RobustaStudio/payfort-start-php
+php composer.phar require robustastudio/payfort-start-php
 ```
 
 .. or add a line to your `composer.json` file:
@@ -22,7 +22,7 @@ php composer.phar require RobustaStudio/payfort-start-php
 ```json
 {
     "require": {
-        "RobustaStudio/payfort-start-php": "*"
+        "robustastudio/payfort-start-php": "*"
     }
 }
 ```
